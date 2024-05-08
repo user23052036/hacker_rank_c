@@ -18,6 +18,7 @@ int find(int n, int a, int b, int c)
   return sum;
 }
 
+int find(int,int,int,int);
 int main() {
     int n, a, b, c;
   
